@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Esercizio1</string>
+    <string name="password_cannot_be">Password cannot be blank and must contain at last 4 characters. The email adress must be a valid adress</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="name">Email adress</string>
+    <string name="todo">TODO</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="invalid_password">Invalid Password</string>
+</resources>
